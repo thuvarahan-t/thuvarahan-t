@@ -7,7 +7,7 @@ I'm a passionate **IT undergraduate** from the **University of Moratuwa**, who e
 ### 💼 What I Do
 
 - 🎓 Studying Information Technology – Batch 23 @ UoM
-- ⚖️ Working on hardware & Software Projects
+- ⚖️ Working on hardware & IoT projects (e.g., Smart Desk System, Panchamirtham Maker)
 - 💻 Building apps using JavaScript, HTML/CSS, Google Apps Script
 - 📸 Capturing moments (Photography Enthusiast)
 - 🎮 Video Editor & Design Lover
@@ -45,5 +45,9 @@ I'm a passionate **IT undergraduate** from the **University of Moratuwa**, who e
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuvarahan2003/)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@thuvarahanthayalan8114)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thuvarahan.t/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/thuvarahan.t)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Thuvarahan_t)
 
+✉️ Email: thuvarahan2003@gmail.com
 
