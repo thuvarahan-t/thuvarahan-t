@@ -1,6 +1,6 @@
 ### 🚀 Hi there, I'm Thuvarahan Thayalan 👋
 
-I'm a passionate **IT undergraduate** from the **University of Moratuwa**, who enjoys working on **hardware projects**, building **creative digital experiences**, and exploring **new technologies**.
+I'm a passionate **IT undergraduate** from the **University of Moratuwa**, who enjoys working on **software and hardware projects**, building **creative digital experiences**, and exploring **new technologies**.
 
 ---
 
