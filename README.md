@@ -7,7 +7,7 @@ I'm a passionate **IT undergraduate** from the **University of Moratuwa**, who e
 ### 💼 What I Do
 
 - 🎓 Studying Information Technology – Batch 23 @ UoM
-- ⚖️ Working on hardware & IoT projects (e.g., Smart Desk System, Panchamirtham Maker)
+- ⚖️ Working on hardware & software projects
 - 💻 Building apps using JavaScript, HTML/CSS, Google Apps Script
 - 📸 Capturing moments (Photography Enthusiast)
 - 🎮 Video Editor & Design Lover
