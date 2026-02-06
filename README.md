@@ -25,11 +25,6 @@ I'm a passionate **IT undergraduate** from the **University of Moratuwa**, who e
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![Thuvarahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuvarahan-t&show_icons=true&theme=radical)
 
 ---
 
