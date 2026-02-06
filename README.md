@@ -20,27 +20,18 @@
 
 ### 👨‍💻 About Me
 
-### 👨‍💻 About Me
-
 <table>
   <tr>
     <td valign="top" width="60%">
-      <blockquote>
-        <b style="font-size:18px">"Born to Edit, Forced to Code."</b>
-      </blockquote>
-      <br/>
-      I am a <strong>2nd Year IT Undergraduate at the University of Moratuwa</strong> with a creative heart and a logical brain. 
-      <br/><br/>
       <ul>
-        <li>🗣️ <strong>Communicator:</strong> I can talk... a lot. But I promise to keep it humorous and engaging!</li>
-        <li>🍜 <strong>The Paradox:</strong> I'm a huge foodie, but when I'm in the coding "zone," I forget to eat entirely.</li>
-        <li>📸 <strong>Through the Lens:</strong> I’m a romantic at heart with a "cool guy" attitude, capturing cinematic moments with my <strong>Nikon D5600</strong>.</li>
-        <li>🌏 <strong>Traveler:</strong> I love exploring new places (even though my motion sickness hates the journey).</li>
-        <li>🎓 <strong>Current Status:</strong> Surviving UoM one bug at a time.</li>
+        <li>🌱 I’m currently diving deep into <strong>Java (OOP, Threads) & Software Testing (TestNG)</strong>.</li>
+        <li>🎨 I enjoy designing user interfaces in <strong>Figma</strong>.</li>
+        <li>🔌 I love tinkering with <strong>Arduino, Stepper Motors, & Electronics</strong>.</li>
+        <li>⚡ Fun fact: <strong>I capture cinematic shots with my Nikon D5600 when I'm not coding.</strong></li>
       </ul>
     </td>
     <td width="40%">
-      <img align="right" src="https://media.giphy.com/media/L1R1TVThqceK6M8pxd/giphy.gif" alt="Editing vs Coding" width="100%"/>
+      <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding Gif" width="100%"/>
     </td>
   </tr>
 </table>
