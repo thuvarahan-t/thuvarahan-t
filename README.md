@@ -1,48 +1,90 @@
-### 🚀 Hi there, I'm Thuvarahan Thayalan 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Thuvarahan%20T&fontSize=70&animation=fadeIn&fontAlignY=35&desc=IT%20Undergraduate%20&descAlignY=55&descAlign=50"/>
+</div>
 
-I'm a passionate **IT undergraduate** from the **University of Moratuwa**, who enjoys working on **software and hardware projects**, building **creative digital experiences**, and exploring **new technologies**.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Java+Developer;UI%2FUX+Enthusiast;Electronics+%26+Arduino+Hobbyist;Event+Organizer+(NGCL+%26+Thamizharuvi);Photographer+📸" alt="Typing SVG" />
+  </a>
+</div>
 
----
-
-### 💼 What I Do
-
-- 🎓 Studying Information Technology – Batch 23 @ UoM
-- ⚖️ Working on hardware & software projects
-- 💻 Building apps using JavaScript, HTML/CSS, Google Apps Script
-- 📸 Capturing moments (Photography Enthusiast)
-- 🎮 Video Editor & Design Lover
-
----
-
-### 🛠️ Languages & Tools
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
-
+<div align="center">
+  
+  <p>
+    <a href="https://linkedin.com/in/thuvarahan2003" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://github.com/thuvarahan-t" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    </p>
+</div>
 
 ---
 
-### ✨ Fun Facts
+### 👨‍💻 About Me
 
-- 🧙‍♂️ I can solve a Rubik’s cube in 41 seconds!
-- 😄 Known as a "broken heart boy" with a charming smile 😅
-- 🌟 Aspiring to work for **Star Sports**
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>🌱 I’m currently diving deep into <strong>Java (OOP, Threads) & Software Testing (TestNG)</strong>.</li>
+        <li>🎨 I enjoy designing user interfaces in <strong>Figma</strong>.</li>
+        <li>🔌 I love tinkering with <strong>Arduino, Stepper Motors, & Electronics</strong>.</li>
+        <li>🏏 Beyond code, I organize the <strong>NGCL Cricket Tournament</strong> & <strong>Thamizharuvi</strong> cultural events.</li>
+        <li>⚡ Fun fact: <strong>I capture cinematic shots with my Nikon D5600 when I'm not coding.</strong></li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding Gif" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📢 Let's Connect
+### 🛠️ Technical Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuvarahan2003/)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@thuvarahanthayalan8114)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thuvarahan.t/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/thuvarahan.t)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Thuvarahan_t)
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><strong>Languages</strong></td>
+    <td align="center" width="25%"><strong>Design & Creative</strong></td>
+    <td align="center" width="25%"><strong>Backend & Testing</strong></td>
+    <td align="center" width="25%"><strong>Hardware & Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,python,c" alt="Languages"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Design"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring,mysql,selenium" alt="Backend"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=arduino,git,idea,vscode" alt="Tools"/>
+    </td>
+  </tr>
+</table>
 
-✉️ Email: thuvarahan2003@gmail.com
+---
 
+### 🐍 My Contributions
+
+<div align="center">
+  <img src="https://github.com/thuvarahan-t/thuvarahan-t/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=thuvarahan-t&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</a>
+
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=thuvarahan-t&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
+</div>
