@@ -27,7 +27,6 @@
         <li>🌱 I’m currently diving deep into <strong>Java (OOP, Threads) & Software Testing (TestNG)</strong>.</li>
         <li>🎨 I enjoy designing user interfaces in <strong>Figma</strong>.</li>
         <li>🔌 I love tinkering with <strong>Arduino, Stepper Motors, & Electronics</strong>.</li>
-        <li>🏏 Beyond code, I organize the <strong>NGCL Cricket Tournament</strong> & <strong>Thamizharuvi</strong> cultural events.</li>
         <li>⚡ Fun fact: <strong>I capture cinematic shots with my Nikon D5600 when I'm not coding.</strong></li>
       </ul>
     </td>
