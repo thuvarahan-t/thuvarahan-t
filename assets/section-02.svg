@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-label="02 STACK">
+  <style>
+    .slide { animation: slide .8s cubic-bezier(.2,.8,.2,1) both; }
+    .fade { animation: fade .8s .6s ease both; }
+    .blink { animation: blink 1.1s steps(1) infinite; }
+    @keyframes slide { from { opacity: 0; transform: translateX(-40px); } to { opacity: 1; transform: none; } }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs><clipPath id="c"><rect x="96" y="0" width="0" height="76">
+    <animate attributeName="width" from="0" to="210" dur=".9s" begin=".25s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/>
+  </rect></clipPath></defs>
+  <g class="slide">
+    <rect x="10" y="10" width="290" height="54" fill="#ff4a17"/>
+    <rect x="4" y="4" width="290" height="54" fill="#f7f4ec" stroke="#14140f" stroke-width="3"/>
+    <rect x="4" y="4" width="78" height="54" fill="#d8ff3f" stroke="#14140f" stroke-width="3"/>
+    <text x="43" y="42" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="24" font-weight="700" fill="#14140f">02</text>
+    <g clip-path="url(#c)">
+      <text x="102" y="45" font-family="'Arial Black','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="900" font-size="30" fill="#14140f" letter-spacing="1">STACK</text>
+    </g>
+    <rect x="274" y="18" width="10" height="26" fill="#ff4a17" class="blink"/>
+  </g>
+  <g class="fade">
+    <line x1="320" y1="31" x2="1188" y2="31" stroke="#ff4a17" stroke-width="2" stroke-dasharray="6 6"/>
+    <rect x="970" y="17" width="218" height="28" fill="#14140f"/>
+    <text x="1079.0" y="36" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" font-weight="700" fill="#d8ff3f" letter-spacing="2">USED ON REAL BUILDS</text>
+  </g>
+</svg>
