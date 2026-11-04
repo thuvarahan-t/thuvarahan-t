@@ -1,28 +1,19 @@
-<a href="https://thuvarahan.me"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg"/><img src="./assets/hero-dark.svg" width="100%" alt="Thuvarahan Thayalan, full-stack developer. Open to internships."/></picture></a>
+# IN3101 Lab 02 - Library Book REST API
 
-<p align="center">
-<a href="https://thuvarahan.me"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/btn-portfolio-light.svg"/><img src="./assets/btn-portfolio-dark.svg" height="44" alt="Portfolio"/></picture></a>
-<a href="https://www.linkedin.com/in/thuvarahan2003/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/btn-linkedin-light.svg"/><img src="./assets/btn-linkedin-dark.svg" height="44" alt="LinkedIn"/></picture></a>
-<a href="https://www.thuvarahan.me/Thuvarahan.T.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-resume-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/btn-resume-light.svg"/><img src="./assets/btn-resume-dark.svg" height="44" alt="Resume"/></picture></a>
-<a href="mailto:thuvarahan2003@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/btn-email-light.svg"/><img src="./assets/btn-email-dark.svg" height="44" alt="Email"/></picture></a>
-</p>
+Name: Thuvarahan.T  
+Index: 234210G
 
-<br/>
+Spring Boot 4.1.1, Java 21, Spring Data JPA, MySQL and springdoc 3.1.1.
 
-I study IT at the University of Moratuwa and take on freelance work alongside it. Two platforms I built for clients are running in production today, and on both I handled everything from the database schema to the deploy.
+## Run
+1. Run database.sql in MySQL.
+2. Set DB_USER and DB_PASSWORD for your MySQL connection. Optional DB_URL defaults to jdbc:mysql://localhost:3306/library_db.
+3. Run `mvn spring-boot:run`.
+4. Open http://localhost:8080/swagger-ui.html.
 
-Most of my time goes into the backend: Java and Spring Boot services, PostgreSQL, and the Docker and GitHub Actions setup that ships them. Lately I have been reading through the WSO2 Identity Server source to understand how authentication flows are put together.
+## Test
+Import 234210G.postman_collection.json into Postman. Start with an empty book table; create two books first, then run S1-S7 in order. S1 creates ID 3. The collection covers 201, 200, 204, 404 and 400. The title containing 234210G appears in S2.
 
-I am looking for a software engineering internship, in Colombo or remote. Projects and the longer story are on [thuvarahan.me](https://thuvarahan.me).
+Endpoints: GET/POST /api/books, GET/PUT/DELETE /api/books/{id}.
 
-<br/>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg"/><img src="./assets/stack-dark.svg" width="100%" alt="Toolbox: Java, Spring Boot, PostgreSQL, Supabase, Redis, Docker, GitHub Actions, AWS, Linux, Next.js, React, TypeScript, Tailwind CSS, JavaScript, Vercel, Python, Figma, Arduino"/></picture>
-
-<br/><br/>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thuvarahan-t/thuvarahan-t/output/activity-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thuvarahan-t/thuvarahan-t/output/activity-light.svg"/><img src="https://raw.githubusercontent.com/thuvarahan-t/thuvarahan-t/output/activity-dark.svg" width="100%" alt="Contribution activity: a snake eating the commit grid, plus yearly totals, streaks and languages"/></picture>
-
-<br/><br/>
-
-<a href="mailto:thuvarahan2003@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg"/><img src="./assets/footer-dark.svg" width="100%" alt="Let's build something. thuvarahan2003@gmail.com"/></picture></a>
+POST is documented with a summary and responses 201/400. Blank title/author and negative price are validated.
