@@ -1,0 +1,6 @@
+.git
+.mvn
+.vscode
+.idea
+src
+.env
